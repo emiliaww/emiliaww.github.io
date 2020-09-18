@@ -1,0 +1,41 @@
+body {
+	font-family: Univers, Arial, Helvetica, Sans-serif;
+	padding-bottom: 20%;
+	background-image: url("images/kirby.png");
+	background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: fixed;
+    opacity: 0.8;
+}
+
+h1 {
+	color: #333;
+}
+
+.carousel-inner > .item > img {
+  min-width: 80%;
+}
+
+.panel {
+	margin-left: 4px;
+	}
+	
+.embed-responsive {
+	padding: 10%;
+}
+
+ul {
+	list-style-type: none;
+	}
+	
+a:link {
+	color: #ffaaaa;
+	text-decoration: none;
+	
+	
+}
+
+a:hover {
+	text-decoration: none;
+	font-size:110%;
+}
