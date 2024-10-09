@@ -3,9 +3,9 @@
 }
 
 body {
-  background-color: #f1f1f1;
+  background-color: #003300;
   padding: 20px;
-  font-family: Arial;
+  font-family: Garamond, Times, serif;
 }
 
 /* Center website */
@@ -44,7 +44,7 @@ h1 {
 
 /* Content */
 .content {
-  background-color: white;
+  background-color: #461961;
   padding: 10px;
 }
 
