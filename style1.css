@@ -16,6 +16,7 @@
   display: flex;
   flex-direction: column;
   font-family: Garamond, Times, serif;
+
 body {
   background-color: #003300;
   padding: 20px;
@@ -24,7 +25,7 @@ body {
 
 /* Center website */
 .main {
-  max-width: 1000px;
+  width: 80%;
   margin: auto;
 }
 
@@ -72,6 +73,6 @@ h1 {
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
-    width: 100%;
+    width: 80%;
   }
 }
