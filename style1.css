@@ -2,6 +2,20 @@
   box-sizing: border-box;
 }
 
+.sidebar {
+  width: 20%;
+  position: fixed;
+  z-index:1;
+  top: 0;
+  left: 0;
+  margin-left: 10px;
+  padding-top: 20px;
+  overflow-x: hidden;
+  padding-left: 20px;
+  color: #6776e5;
+  display: flex;
+  flex-direction: column;
+  font-family: Garamond, Times, serif;
 body {
   background-color: #003300;
   padding: 20px;
