@@ -95,6 +95,15 @@
   line-height: 150%;
 }
 
+.love2 {
+  font-family: Garamond,serif;
+  color: #003300;
+  font-size: 16px;
+  padding-right: 60px;
+  line-height: 80%;
+  text-align: center;
+}
+
 .artimages {
   font-size: 10px;
 }
