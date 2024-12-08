@@ -64,10 +64,11 @@
 
 }
 
-.grid {
+.grid-container {
   display:grid;
-  display-template-columns: auto auto auto;
+  grid-template-columns: auto auto auto;
   gap:30px;
+  justify-content: space-evenly;
 
 }
 @media screen and (max-width: 450px) {
