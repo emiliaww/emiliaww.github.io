@@ -68,6 +68,7 @@
   display:grid;
   grid-template-columns: auto auto auto;
   gap:50px;
+  text-align: center;
 
 }
 @media screen and (max-width: 450px) {
