@@ -25,7 +25,8 @@
 .main{
   width: 80%;
   margin-top: 30px;
-  margin-left: 20%;
+  margin-left: 15%;
+  margin-right:5%;
 }
 
 .center {
@@ -67,7 +68,7 @@
   display:grid;
   display-template-columns: auto auto auto;
   gap:30px;
-  
+
 }
 @media screen and (max-width: 450px) {
   .column {
